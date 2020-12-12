@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Navbar from './komponen/Navbar';
 import Carddata from './komponen/Carddata';
